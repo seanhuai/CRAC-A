@@ -1,4 +1,4 @@
-* [首页](/)
+* [首页](/README.md "CRAC A级操作技术能力验证指南")
 * [备考信息](/getting-started.md)
 * [无线电管理政策法规](/chapter1/)
 * [业余无线电管理政策](/chapter2/)
